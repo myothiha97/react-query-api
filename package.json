@@ -1,0 +1,32 @@
+{
+  "name": "@mthk97/react-query-api",
+  "version": "1.0.0",
+  "description": "the demonstration of react query api ",
+  "main": "main.js",
+  "dependencies": {
+    "@uidotdev/react-query-api": "^0.1.18",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "react-query": "^4.0.0-beta.3",
+    "react-router-dom": "^6.1.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.0",
+    "vite": "^2.6.4"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myothiha97/react-query-api.git"
+  },
+  "author": "mthk97",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myothiha97/react-query-api/issues"
+  },
+  "homepage": "https://github.com/myothiha97/react-query-api#readme"
+}
